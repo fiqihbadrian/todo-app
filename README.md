@@ -1,6 +1,6 @@
-# flutter_day1
+# Todo App
 
-A new Flutter project.
+Todo App With flutter (still in development stage)
 
 ## Getting Started
 
